@@ -5,7 +5,7 @@ native applications without having to leave the comfort of the language, framewo
 they're used to.
 
 Whether it’s internal tooling for their business, consumer-facing apps for their clients, or just
-cool hobby projects for the sheer delight of it, NativePHP is enabling hundreds of developers
+cool hobby projects for the sheer delight of it, NativePHP is enabling thousands of developers to
 realize their ideas and get apps out to their users faster than ever.
 
 It only takes a few minutes to start building your next app, so why not start now?
